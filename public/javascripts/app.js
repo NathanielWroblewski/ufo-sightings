@@ -1,6 +1,6 @@
 !function() {
-  var ufoDatasetPath = '/public/datasets/ufo_sightings.csv'
-    , usTopoJSONPath = '/public/datasets/us.json'
+  var ufoDatasetPath = '/ufo-sightings/public/datasets/ufo_sightings.csv'
+    , usTopoJSONPath = '/ufo-sightings/public/datasets/us.json'
     , height = 400
     , width = 600
 
